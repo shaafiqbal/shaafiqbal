@@ -56,7 +56,7 @@
 
 ### 📫 Connect With Me
 - GitHub: https://github.com/shaafiqbal
-- LinkedIn: *(add your LinkedIn profile here)*
+- LinkedIn: *https://www.linkedin.com/in/shaaf-iqbal-mughal-78354427b/*
 
 ---
 

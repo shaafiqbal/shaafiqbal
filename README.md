@@ -1,78 +1,67 @@
-## Hi 👋 I'm Shaaf Iqbal
+# Hi 👋 I'm Shaaf Iqbal  
 
-💻 Frontend & Mobile App Developer  
-🚀 Passionate about building real-world projects and learning new technologies  
-📍 Pakistan
-
----
-
-### 🛠 Tech Stack
-
-**Frontend**
-- HTML, CSS, JavaScript
-- Bootstrap, jQuery
-- Responsive UI Design
-
-**Mobile Development**
-- Dart
-- Flutter (UI, Navigation, State basics)
-
-**Backend**
-- PHP (Basic)
-- Python (Basic)
-- Flask (Beginner)
-
-**Desktop Applications**
-- Python Tkinter (GUI Applications)
-
-**Database**
-- MySQL (Basic)
-- SQLite (Beginner)
-
-**Version Control**
-- Git
-- GitHub
+🐍 Python Developer | 📊 Data Science & Machine Learning Enthusiast  
+🚀 Passionate about solving real-world problems using data and intelligent systems  
+📍 Pakistan  
 
 ---
 
-### 📌 Featured Projects
-- 🧮 **Tkinter Calculator** – Python GUI calculator with clean UI  
-- 🕒 **Analog Clock (Tkinter)** – Real-time clock using Python  
-- 📱 **Flutter Quran Surah App** – Surah listing, search & dark mode  
-- 🧠 **Quiz App** – Flutter-based quiz application  
-- ⚙️ **Python Automation Scripts** – Small tools & utilities  
-
-👉 Check my repositories to see more projects.
+## 🧠 About Me  
+I am a motivated Python & Data Science enthusiast focused on building data-driven applications and machine learning models. I enjoy exploring datasets, extracting insights, and developing predictive models. My goal is to become a job-ready Data Scientist and Machine Learning Engineer.
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Flutter
-- REST APIs
-- Backend integration
-- Clean code & project structure
+## 🛠 Tech Stack  
+
+### Programming & Tools  
+- Python  
+- SQL  
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+
+### Data Science & Machine Learning  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Feature Engineering  
+- Classification & Regression Models  
+
+### Backend & Databases  
+- Flask (Beginner)  
+- MySQL, SQLite  
 
 ---
 
-### 📫 Connect With Me
-- GitHub: https://github.com/shaafiqbal
-- LinkedIn: *https://www.linkedin.com/in/shaaf-iqbal-mughal-78354427b/*
+## 📌 Featured Projects  
+
+- 📊 **Quran Surah Classification (ML Model)**  
+  Machine learning model to classify Surahs as Meccan or Medinan  
+
+- 🔍 **Quran Recommendation System**  
+  Data-driven recommendation engine using Surah metadata  
+
+- 📈 **Exploratory Data Analysis Projects**  
+  EDA & visualization on multiple datasets  
+
+- ⚙️ **Python Automation Scripts**  
+  Productivity tools and automation utilities  
+
+👉 Explore my repositories to see complete implementations.
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+## 🌱 Currently Learning  
+- Advanced Machine Learning  
+- Deep Learning Basics  
+- NLP  
+- Model Deployment (Streamlit & Flask)  
 
-<!--
-**shaafiqbal/shaafiqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Connect With Me  
+- GitHub: https://github.com/shaafiqbal  
+- LinkedIn: https://www.linkedin.com/in/shaaf-iqbal-mughal-78354427b/  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ If you find my work helpful, consider giving a star to my repositories!
